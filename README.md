@@ -2,6 +2,7 @@
 
 #### General
 
+- [x] I've included the [Front-end Dev Checklist](https://github.com/wearelighthouse/front-end-dev-checklist) in my PR.
 - [ ] Filenames correctly match the single template, component, script, etc. inside each file.  
 - [ ] 'Magic numbers' are avoided where possible, otherwise have explanation e.g. a suitable variable name or comment.  
 
@@ -26,12 +27,11 @@
 #### JavaScript
 
 - [ ] Gracefully degrades without Javascript (where possible).
-- [ ]
 
 
 #### SVG
 
-- [ ]
+- [ ] Unnecessary attributes have been removed (either manually, or by using a tool like [SVGOMG](https://jakearchibald.github.io/svgomg/))
 
 #### IMG
 
