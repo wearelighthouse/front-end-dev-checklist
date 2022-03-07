@@ -1,5 +1,7 @@
 # Front-end Dev Checklist (WIP)
 
+A standard set of front-end dev requirements for work that Lighthouse does for both internal, and client projects. If can be included in a particular project by copy-pasting the relevant sections into a [new pull request template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
+
 
 #### General
 - [x] I've included the [Front-end Dev Checklist](https://github.com/wearelighthouse/front-end-dev-checklist) in my PR.
@@ -27,7 +29,7 @@
 
 #### Assets (SVG, IMG, etc.)
 - [ ] Unnecessary attributes have been removed (either manually, or by using a tool like [SVGOMG](https://jakearchibald.github.io/svgomg/)).
-- [ ] Alt tags or visually-hidden text to describe images.
+- [ ] Alt tags or visually-hidden text has been included to describe images.
 - [ ] `<img>`s have `loading="lazy"` and `width` and `height` attributes if possible.
 
 #### Browser & device support
