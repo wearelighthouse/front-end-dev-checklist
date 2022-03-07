@@ -4,7 +4,7 @@
 #### General
 - [x] I've included the [Front-end Dev Checklist](https://github.com/wearelighthouse/front-end-dev-checklist) in my PR.
 - [ ] Filenames correctly match a single template, component, function, etc. inside each file.
-- [ ] 'Magic numbers' are avoided where possible, or have explanation e.g. a suitable variable name or comment.
+- [ ] 'Magic numbers' (including color codes) are assigned to suitable variable names, or have explanatory comments.
 - [ ] TODOs have been documented elsewhere or have been removed.
 - [ ] `console.log()`s. `var_dump`s or other temporary debugging techniques have been removed.
 - [ ] No build task or browser warnings/errors have been introduced.
@@ -19,7 +19,7 @@
 - [ ] Class names have the correct namespace prefixes (c-, o-, s-, t-, u-).
 - [ ] Utility classes e.g. `u-ml-4` and `u-color-red` have been used instead of hardcoded values.
 - [ ] [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) & [attribut selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) have been used over class-based selectors where possible.
-- [ ] [Type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors) have only been used within reset, scope, or third-party classes 
+- [ ] [Type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors) have only been used within reset, scope, or third-party classes.
 - [ ] Interactive elements have `:hover`, `:focus` and `:focus-visible` states.
 
 #### JavaScript
