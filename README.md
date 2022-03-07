@@ -16,10 +16,10 @@
 
 #### CSS
 - [ ] BEM class names match up with HTML structure.
-- [ ] Namespace prefixes: `c-` for **c**omponents, `o-` for layout **o**bjects`, `u` for **u**tilities.
+- [ ] Class names have the correct namespace prefixes (c-, o-, s-, t-, u-).
 - [ ] Utility classes e.g. `u-ml-4` and `u-color-red` have been used instead of hardcoded values.
-- [ ] rems and other units have been used in place of `px` where appropriate.
-- [ ] [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) such as `:invalid` and `[aria-current]` have been used over custom class-based selectors.
+- [ ] [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) & [attribut selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) have been used over class-based selectors where possible.
+- [ ] [Type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors) have only been used within reset, scope, or third-party classes 
 - [ ] Interactive elements have `:hover`, `:focus` and `:focus-visible` states.
 
 #### JavaScript
