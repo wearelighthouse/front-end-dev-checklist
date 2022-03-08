@@ -1,2 +1,4 @@
-#Jekyll configuration
-markdown: GFM
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
