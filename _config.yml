@@ -1,1 +1,4 @@
-markdown: GFM
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+  
