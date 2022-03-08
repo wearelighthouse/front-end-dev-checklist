@@ -1,7 +1,1 @@
-@import "{{ site.theme }}";
-
-#front-end-dev-checklist {
-  color: red !important
-}
-
-@import "https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css";
+@import url('https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css');
