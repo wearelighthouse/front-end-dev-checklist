@@ -1,6 +1,6 @@
 # Front-end Dev Checklist
 
-A standard set of front-end dev requirements for work that Lighthouse does for both internal, and client projects. If can be included in a particular project by copy-pasting the relevant sections into a [new pull request template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
+A standard, but always work-in-progress, set of front-end dev requirements for work that Lighthouse does for both internal, and client projects. If can be included in a particular project by copy-pasting the relevant sections into a [new pull request template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
 
 
 #### General
