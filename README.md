@@ -20,7 +20,7 @@ A standard set of front-end dev requirements for work that Lighthouse does for b
 - [ ] BEM class names match up with HTML structure.
 - [ ] Class names have the correct namespace prefixes (c-, o-, s-, t-, u-).
 - [ ] Utility classes e.g. `u-ml-4` and `u-color-red` have been used instead of hardcoded values.
-- [ ] [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) & [attribut selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) have been used over class-based selectors where possible.
+- [ ] [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) & [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) have been used over class-based selectors where possible.
 - [ ] [Type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors) have only been used within reset, scope, or third-party classes.
 - [ ] Interactive elements have `:hover`, `:focus` and `:focus-visible` states.
 
